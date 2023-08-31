@@ -1,0 +1,3 @@
+marketItems = []
+systemmarket = []
+itemsremoved = []
